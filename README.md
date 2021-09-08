@@ -2,7 +2,7 @@
 
 <!--
 **AbdulRehmanSayeed/AbdulRehmanSayeed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Web Apps
@@ -10,4 +10,3 @@ Here are some ideas to get you started:
 - 👯 I’m studying Computer Science
 - 💬 Ask me about anything
 - 📫 How to reach me: 990-232-1615
--->
